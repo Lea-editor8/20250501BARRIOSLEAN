@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  29 MAY 2025 22:15
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  29 MAY 2025 22:41
  restricted system commands enabled.
 **pdf-20250501BARRIOSLEAN.tex
 (./pdf-20250501BARRIOSLEAN.tex
@@ -7316,17 +7316,17 @@ Package logreq Info: Writing requests to 'pdf-20250501BARRIOSLEAN.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 66827 strings out of 476553
+ 66826 strings out of 476553
  5557914,2848258 words of node,token memory allocated
- 5204283 words of node memory still in use:
-   9638 hlist, 6 vlist, 3947 rule, 173 ins, 2 adjust, 72574 disc, 2896 local_par
-, 305 math, 80075 glue, 54179 kern, 6357 penalty, 708 margin_kern, 458076 glyph,
- 70597 attribute, 6080 glue_spec, 10097 attribute_list, 4 write, 38 pdf_literal,
- 136 pdf_start_link, 140 pdf_end_link, 334 pdf_dest, 115 pdf_action, 1471 pdf_co
+ 5203971 words of node memory still in use:
+   9634 hlist, 6 vlist, 3943 rule, 173 ins, 2 adjust, 72574 disc, 2896 local_par
+, 305 math, 80071 glue, 54179 kern, 6357 penalty, 708 margin_kern, 458064 glyph,
+ 70555 attribute, 6080 glue_spec, 10091 attribute_list, 4 write, 38 pdf_literal,
+ 136 pdf_start_link, 140 pdf_end_link, 334 pdf_dest, 115 pdf_action, 1463 pdf_co
 lorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
    avail lists: 1:6,2:428,3:64,4:36,5:243,6:14,7:3572,8:137,9:119,10:31,11:508
  86793 multiletter control sequences out of 65536+600000
- 101 fonts using 27768447 bytes
+ 101 fonts using 27768651 bytes
  117i,8n,123p,5855b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
@@ -7337,10 +7337,10 @@ texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250501BARRIOSLEAN.pdf (181 pages, 705046 bytes).
+Output written on pdf-20250501BARRIOSLEAN.pdf (181 pages, 704980 bytes).
 
-PDF statistics: 1245 PDF objects out of 1440 (max. 8388607)
- 923 compressed objects within 10 object streams
- 336 named destinations out of 1000 (max. 131072)
+PDF statistics: 1244 PDF objects out of 1440 (max. 8388607)
+ 922 compressed objects within 10 object streams
+ 335 named destinations out of 1000 (max. 131072)
  325 words of extra memory for PDF output out of 10000 (max. 100000000)
 

@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  30 MAY 2025 18:20
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.4.4)  30 MAY 2025 18:29
  restricted system commands enabled.
 **pdf-20250501BARRIOSLEAN.tex
 (./pdf-20250501BARRIOSLEAN.tex
@@ -7051,24 +7051,24 @@ Proceed; I'll discard its present contents.
 
 The following box has been deleted: []
 
-LaTeX Info: Redefining \. on input line 2900.
-LaTeX Info: Redefining \% on input line 2900.
-LaTeX Info: Redefining \. on input line 2900.
-LaTeX Info: Redefining \% on input line 2900.
+LaTeX Info: Redefining \. on input line 2901.
+LaTeX Info: Redefining \% on input line 2901.
+LaTeX Info: Redefining \. on input line 2901.
+LaTeX Info: Redefining \% on input line 2901.
 
-Package undolabl Warning: Label `pagesLTS.arabic' overridden on input line 2900
+Package undolabl Warning: Label `pagesLTS.arabic' overridden on input line 2901
 .
 
 
 Package undolabl Warning: Label `pagesLTS.arabic.local' overridden on input lin
-e 2900.
+e 2901.
 
 [170]
 ! Output routine didn't use all of \box255.
-<argument> ...ype:D \tex_hskip:D \c_zero_dim \fi: \tex_par:D 
-                                                  \hook_use:n {para/after}\@...
-l.2900 
-     
+<everypar> 
+\g__para_standard_everypar_tl 
+l.2901 E
+      n un párrafo a destacarse de \emph{El periódico, actor político}, H...
 Your \output commands should empty \box\outputbox,
 e.g., by saying `\shipout\box\outputbox'.
 Proceed; I'll discard its present contents.
@@ -7310,17 +7310,17 @@ Package logreq Info: Writing requests to 'pdf-20250501BARRIOSLEAN.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 66826 strings out of 476553
+ 66819 strings out of 476553
  5557917,2848258 words of node,token memory allocated
- 5203897 words of node memory still in use:
-   9634 hlist, 6 vlist, 3943 rule, 173 ins, 2 adjust, 72568 disc, 2896 local_par
-, 305 math, 80069 glue, 54176 kern, 6357 penalty, 708 margin_kern, 458067 glyph,
- 70555 attribute, 6080 glue_spec, 10091 attribute_list, 4 write, 38 pdf_literal,
- 136 pdf_start_link, 140 pdf_end_link, 334 pdf_dest, 115 pdf_action, 1463 pdf_co
+ 5205289 words of node memory still in use:
+   9624 hlist, 6 vlist, 3937 rule, 173 ins, 2 adjust, 72606 disc, 2900 local_par
+, 305 math, 80089 glue, 54222 kern, 6357 penalty, 708 margin_kern, 458239 glyph,
+ 70380 attribute, 6080 glue_spec, 10066 attribute_list, 4 write, 38 pdf_literal,
+ 136 pdf_start_link, 140 pdf_end_link, 334 pdf_dest, 115 pdf_action, 1443 pdf_co
 lorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:6,2:428,3:64,4:36,5:243,6:14,7:3572,8:136,9:119,10:31,11:508
- 86793 multiletter control sequences out of 65536+600000
- 101 fonts using 27768719 bytes
+   avail lists: 1:6,2:428,3:64,4:30,5:243,6:14,7:3572,8:136,9:119,10:31,11:508
+ 86790 multiletter control sequences out of 65536+600000
+ 101 fonts using 27768447 bytes
  117i,8n,123p,5855b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
@@ -7331,10 +7331,10 @@ texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250501BARRIOSLEAN.pdf (181 pages, 704961 bytes).
+Output written on pdf-20250501BARRIOSLEAN.pdf (181 pages, 704579 bytes).
 
-PDF statistics: 1244 PDF objects out of 1440 (max. 8388607)
- 922 compressed objects within 10 object streams
- 335 named destinations out of 1000 (max. 131072)
+PDF statistics: 1240 PDF objects out of 1440 (max. 8388607)
+ 918 compressed objects within 10 object streams
+ 331 named destinations out of 1000 (max. 131072)
  325 words of extra memory for PDF output out of 10000 (max. 100000000)
 
